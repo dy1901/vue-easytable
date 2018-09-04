@@ -4,7 +4,11 @@
 # vue-easytable
 
 [切换中文](https://github.com/huangshuwei/vue-easytable/blob/master/README-CN.md)
-
+```
+install = [
+   adsfa
+]
+```
 
 ## Introduction
 Based on vue2.x flexible table components.
